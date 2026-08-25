@@ -1,4 +1,4 @@
-# Platform API
+# Platform API Lab
 
 Proof of concept of an internal platform API for governed Kubernetes capabilities. The API exposes a small golden path for creating namespaces with a predictable name, ownership metadata and a resource quota selected from a supported size profile.
 
